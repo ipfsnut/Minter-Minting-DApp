@@ -1,5 +1,5 @@
 const ALCHEMY_PRC_URL = "https://polygon-mainnet.g.alchemy.com/v2/f5LpbJ2eyEurydCMDameDYSJmLa8pPyS"
-const NET = 'evmos' // polygon, rinkeby, mumbai
+const NET = 'polygon' // polygon, rinkeby, mumbai
 // const API_URL = 'http://192.168.104.27:3001/api'
 // const API_URL = 'https://nftbb-minter-backend.herokuapp.com/api'
 const API_URL = 'https://apiv2.nftbookbazaar.com/api'
