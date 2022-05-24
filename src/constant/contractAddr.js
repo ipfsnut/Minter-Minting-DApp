@@ -21,6 +21,13 @@ switch (NET) {
         Membership721ContractAddr = ''
         break;
 
+    case 'evmos':
+        ComunityContractAddr = '0x6Fd476D66d080EA9056ac685a8E5495031a60FD6'
+        UniftyContractAddr = '0xd490F7FC26592bA987c81Cd6F10816487F6947B7'
+        MembershipContractAddr = '0xc1d5224bd38e79042037ea75F908A22275669691'
+        Membership721ContractAddr = ''
+        break;
+
     case 'polygon':
         ComunityContractAddr = '0xEd5467Fd62250788EdaA228ae27a609A39B354B0'
         UniftyContractAddr = '0x931204Fb8CEA7F7068995dcE924F0d76d571DF99'
